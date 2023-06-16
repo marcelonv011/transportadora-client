@@ -1,0 +1,11 @@
+
+export enum StatusFrete {
+
+    CARGA = "CARGA",
+    EM_TRANSPORTE = "EM_TRANSPORTE",
+    INTERROMPIDO = "INTERROMPIDO",
+    DESCARGA = "DESCARGA",
+    FATURADO = "FATURADO",
+    CANCELADO = "CANCELADO"
+
+}
